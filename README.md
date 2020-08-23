@@ -4,10 +4,11 @@ This keyboard layout is based on standard US layout with additional glyphs for e
 
 ## Additional glyphs
 
-- Czech (using Alt)
-- German (using Alt+Ctrl simultaneously)
+- Czech special characters (using Alt)
+- German & Finnish special characters (using Alt+Ctrl simultaneously)
 - Greek (using Alt)
 - subscripts & superscript numbers (Caps-Lock for superscripts & Caps-Lock & Shift for subscripts)
+- basic math symbols (using Alt+Ctrl simultaneously)
 
 ## Install
 
@@ -20,8 +21,10 @@ curl -Sso ~/Library/Keyboard\ Layouts/academic.icns https://raw.githubuserconten
 2. Log-out and Log-in (to refresh the keyboard cache)
 3. Add as a new keyboard in System Preferences.
 
+## Layouts
 
-
+![](alt-layout.png)
+![](alt-ctrl-layout.png)
 
 ## Known issues
 
