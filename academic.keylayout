@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.4.2.314 on 2020-08-23 at 17:34 (EEST)-->
+<!--Last edited by Ukelele version 3.4.2.314 on 2020-08-23 at 17:38 (EEST)-->
 <!--Sorin Paliga ©-->
 <keyboard group="126" id="-13781" name="Academic" maxout="2">
     <layouts>
